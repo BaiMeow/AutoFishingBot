@@ -1,0 +1,11 @@
+User = "someone@somewhere.com" # 账号
+Password = "123456" # 密码
+
+Server = "localhost" # 服务器
+Port = 25565 # 端口
+
+InitMsg = ["hello", "i'm in"] # 刚进服务器执行命令
+TimingMsg = ["playing", "ohhhhhhh"] # 定时执行命令
+Interval = 60 # 定时命令间隔(s)
+
+DelayAfterDisconnect = 600 # 断开连接后退出延时
